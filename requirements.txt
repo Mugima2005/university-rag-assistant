@@ -1,0 +1,6 @@
+sentence-transformers
+pinecone
+python-dotenv
+groq
+streamlit
+pypdf
